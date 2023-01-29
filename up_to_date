@@ -1,1 +1,7 @@
-How to be up to date in git
+write the git command line used
+
+
+git add . 
+git coomit -m "How to be up to date in git”
+
+git push 
